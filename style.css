@@ -1,3 +1,4 @@
+/* This is the styling file for this project created using CSS3 technology... */
 @import url("https://fonts.googleapis.com/css2?family=Young+Serif&display=swap");
 
 * {
@@ -14,6 +15,7 @@ body {
   overflow: hidden;
   margin: 0;
 }
+/* These are some general stylings  that will be used throughout the website, such as text color and size. */
 
 img {
   max-width: 100%;
@@ -25,6 +27,7 @@ img {
   overflow: hidden;
   width: 350px;
 }
+/* These are for the main or parent card container and for the image */
 
 .card-header {
   height: 200px;
@@ -35,6 +38,7 @@ img {
   height: 100%;
   width: 100%;
 }
+/* These are for the header part and image of the card */
 
 .card-content {
   padding: 30px;
