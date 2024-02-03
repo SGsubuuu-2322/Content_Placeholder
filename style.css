@@ -47,13 +47,14 @@ img {
 
 .card-title {
   margin: 0;
-  height: 20px;
+  height: 30px;
 }
 
 .card-excerpt {
   color: #777;
   margin: 10px 0 20px;
 }
+/* These are the parent card-content container,  title, and excerpt */
 
 .author {
   display: flex;
@@ -78,6 +79,7 @@ img {
   color: #aaa;
   margin-top: 5px;
 }
+/* These are for the parent author container and its child like profile-image and, author-info */
 
 .animated-bg {
   background-image: linear-gradient(
@@ -109,3 +111,4 @@ img {
     background-position: -150% 0%;
   }
 }
+/* These are for creating that animation scrolling effect on text and content of the card */
